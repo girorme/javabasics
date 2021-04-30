@@ -1,13 +1,21 @@
-## Getting Started
+## Java basic tips to study
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
+This is my simple tips to remember java primities/operations and misc world.
 ## Folder Structure
 
 The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources
 - `lib`: the folder to maintain dependencies
+
+## Run examples
+- Remove comment and run the program:
+
+```
+$ cd src/
+$ javac App.java
+$ java App
+```
 
 ## Dependency Management
 

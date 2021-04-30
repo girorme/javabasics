@@ -43,7 +43,7 @@ public class App {
     }
 
     public static void iteration() {
-        String[] names = {"rodrigo", "girorme"};
+        String[] names = {"girorme", "java"};
         
         for (String name : names ) {
             System.out.println(name);
