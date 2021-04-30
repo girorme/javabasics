@@ -1,7 +1,7 @@
 ## Java basic tips to study
 
 This is my simple tips to remember primitives/operations and misc java world.
-The examples in some cases can be executed or just will be examples of primitives / declaration. ;)
+The examples in some cases can be executed or just will be examples without side effects. ;)
 
 ### Topics
 - primitives();
